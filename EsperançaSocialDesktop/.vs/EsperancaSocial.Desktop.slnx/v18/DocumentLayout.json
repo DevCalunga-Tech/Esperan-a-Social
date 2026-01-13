@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmprojecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmprojecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|c:\\users\\manico\\source\\repos\\esperan\u00E7asocialdesktop\\esperan\u00E7asocialdesktop\\views\\frmprojecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmprojecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmindividuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmindividuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmindividuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmindividuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdoador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdoador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdoador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdoador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdoador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdoador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmagendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmfamilia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmindividuo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmindividuo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmindividuo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmindividuo.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\controllers\\individuocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\controllers\\individuocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\models\\servicomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\models\\servicomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\models\\atendimentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\models\\atendimentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\models\\agendamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\models\\agendamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\controllers\\familiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\controllers\\familiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\core\\sessaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\core\\sessaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmagendamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\esperan\u00E7asocialdesktop\\views\\frmservico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F9CD8A-1445-4986-ADA5-E86D34B1483C}|Esperan\u00E7aSocialDesktop\\EsperancaSocial.Desktop.csproj|solutionrelative:esperan\u00E7asocialdesktop\\views\\frmservico.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmProjecto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:38:26.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmIndividuo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:43:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProjecto.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmProjecto.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIAwwI4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:31:59.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmServico.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:40:48.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmFuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:43:30.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmFuncionario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:31:36.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmIndividuo.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:47:36.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmFamilia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:09:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDoador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:45:07.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDoador.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAIA9wHQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:31:15.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDoador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.Designer.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.Designer.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.Designer.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoador.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwKYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:05:45.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAgendamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:59:54.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDoacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:43:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAtendimento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T23:33:44.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAgendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:16:08.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmServico.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmServico.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:53:04.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmFamilia.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmFamilia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:31:27.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAtendimento.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmAtendimento.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T00:43:32.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:33:42.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:33:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmDoacao.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmDoacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T11:48:32.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmIndividuo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.Designer.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.Designer.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.Designer.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:48:17.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmIndividuo.resx",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.resx",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.resx",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.resx",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmIndividuo.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-06T06:49:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IndividuoController.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\IndividuoController.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Controllers\\IndividuoController.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\IndividuoController.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Controllers\\IndividuoController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T01:19:33.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Models\\FuncionarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T18:29:50.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:39:33.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:59:08.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServicoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\ServicoModel.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Models\\ServicoModel.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\ServicoModel.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Models\\ServicoModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:25:18.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AtendimentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\AtendimentoController.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Controllers\\AtendimentoController.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\AtendimentoController.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Controllers\\AtendimentoController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T00:13:04.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AtendimentoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\AtendimentoModel.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Models\\AtendimentoModel.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\AtendimentoModel.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Models\\AtendimentoModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T00:04:53.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FamiliaController.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\FamiliaController.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Controllers\\FamiliaController.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\FamiliaController.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Controllers\\FamiliaController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T17:57:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AgendamentoModel.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\AgendamentoModel.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Models\\AgendamentoModel.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Models\\AgendamentoModel.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Models\\AgendamentoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:32:32.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SessaoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Core\\SessaoUsuario.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Core\\SessaoUsuario.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Core\\SessaoUsuario.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Core\\SessaoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:11:03.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmAgendamento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.Designer.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.Designer.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.Designer.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmAgendamento.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAqwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:18:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\ServicoController.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Controllers\\ServicoController.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Controllers\\ServicoController.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Controllers\\ServicoController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:53:00.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmServico.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmServico.Designer.cs",
+              "RelativeDocumentMoniker": "Esperan\u00E7aSocialDesktop\\Views\\FrmServico.Designer.cs",
+              "ToolTip": "C:\\Users\\Manico\\source\\repos\\Esperan\u00E7aSocialDesktop\\Esperan\u00E7aSocialDesktop\\Views\\FrmServico.Designer.cs",
+              "RelativeToolTip": "Esperan\u00E7aSocialDesktop\\Views\\FrmServico.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAiwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:54:46.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

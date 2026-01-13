@@ -1,0 +1,10 @@
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\bin\Debug\EsperançaSocialDesktop.exe.config
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\bin\Debug\EsperançaSocialDesktop.exe
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\bin\Debug\EsperançaSocialDesktop.pdb
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.csproj.AssemblyReference.cache
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.Frmlogin.resources
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.Properties.Resources.resources
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.csproj.GenerateResource.cache
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.exe
+C:\Users\Manico\source\repos\EsperançaSocialDesktop\EsperançaSocialDesktop\obj\Debug\EsperançaSocialDesktop.pdb
